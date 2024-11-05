@@ -86,7 +86,7 @@ header .ctn{
 }
 
 #home{
-  background-image: linear-gradient(260deg, rgba(50, 51, 53, 0) 0%, #323335 100%) , url("/roofy-main/images/hero-image.jpg");
+  background-image: linear-gradient(260deg, rgba(50, 51, 53, 0) 0%, #323335 100%) , url("/images/hero-image.jpg");
   background-position: center ;
   background-size: cover;
   margin-top: 50px;
